@@ -39,13 +39,13 @@
 	</build>
   <distributionManagement>
     <repository>
-        <id>rajesh</id>
-        <name>rajesh-releases</name>
+        <id>aleesha</id>
+        <name>aleesha-releases</name>
         <url>http://13.232.2.248:8080/artifactory/vishal</url>
     </repository>
     <snapshotRepository>
-        <id>rajesh</id>
-        <name>rajesh-snapshots</name>
+        <id>aleesha</id>
+        <name>aleesha-snapshots</name>
         <url>http://13.232.2.248:8080/artifactory/vishal</url>
     </snapshotRepository>
 </distributionManagement>
